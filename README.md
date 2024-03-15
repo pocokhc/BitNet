@@ -1,6 +1,6 @@
 # BitNet
 
-This is an unofficial implementation of BitNet.
+This is an unofficial implementation of BitNet.  
 It is implemented only for BitNetLinear.
 
 # Paper
@@ -31,7 +31,7 @@ Execution examples
 
 # Development Version
 
-Python : 3.12.2
-Tensorflow : 2.16.1
-Torch : 2.2.1
+Python : 3.12.2  
+Tensorflow : 2.16.1  
+Torch : 2.2.1  
 
