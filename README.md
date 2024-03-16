@@ -13,7 +13,7 @@ It is implemented only for BitNetLinear.
 
 Although it is in Japanese, I am posting articles on Qiita.
 
-[]()
+[BitNet b1.58(BitLinear)を実装してMNISTで検証してみた(Tensorflow/Torch)](https://qiita.com/pocokhc/items/09128e92654783a5fa5b)
 
 
 # Usage
